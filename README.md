@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Danish Qureshi</h1>
+<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmicdanish1&label=Profile%20views&color=0e75b6&style=flat" alt="cosmicdanish1" /> </p>
